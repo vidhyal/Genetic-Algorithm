@@ -1,4 +1,4 @@
-Copyright (c) 2016 Vidhya
+;Copyright (c) 2016 Vidhya
 
 (defstruct city
 	x
