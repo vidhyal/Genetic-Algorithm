@@ -1,3 +1,6 @@
+
+Copyright (c) 2016 Vidhya
+
 # Genetic-Algorithm
 
 This program runs with input from a file which contains data in the follwing format:
